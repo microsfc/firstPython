@@ -1,0 +1,2 @@
+# firstPython
+just pratice
